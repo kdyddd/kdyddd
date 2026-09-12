@@ -35,6 +35,4 @@ Java와 Spring Boot로 웹 서비스를 개발합니다. DunTalk의 백엔드를
 
 ## 학습 기록
 
-- **우테코 프리코스:** [숫자 야구](https://github.com/kdyddd/java-baseball-6/tree/kdyddd) · [자동차 경주](https://github.com/kdyddd/java-racingcar-6/tree/kdyddd) · [로또](https://github.com/kdyddd/java-lotto-6/tree/kdyddd)
 - **자료구조·알고리즘:** [Algorithm-Study](https://github.com/SunghyunKim9744/Algorithm-Study)
-- **개발 노트:** [TIL](https://github.com/kdyddd/TIL)
